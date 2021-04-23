@@ -1,8 +1,10 @@
-ip = raw_input()
 s1 = 'lol'
 s2 = 'rofl'
 s3 = 'lmk'
 s4 = 'smh'
+ip = raw_input()
+print(ip)
+print(ip==s1)
 
 if ip==s1:
     print("Laugh out loud")
